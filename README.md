@@ -28,6 +28,3 @@ mekbar wijhak 2ne nra3i vik
 
 
 
-<
-        img width="850" height="768" alt="image" src="https://github.com/user-attachments/assets/7fdbc842-156b-49cb-b883-7e291a7a4419" />
-
